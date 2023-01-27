@@ -6,3 +6,4 @@ const create_user = async (req,res)=>{
     return res.status(200).send({message:"added blog successfull"})
     
 }
+

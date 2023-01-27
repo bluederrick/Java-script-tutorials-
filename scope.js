@@ -26,7 +26,7 @@ function scope (){
 
 
 // glabal scope can be accessed inside and outside the function 
-let school = " emarid college"
+let school = "emarid college"
 
 function schools() {
     console.log(school);
